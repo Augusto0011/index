@@ -1,0 +1,370 @@
+<html>
+<head>
+     <title>ejemplos</title>
+</head>
+<body>
+<p>noticias.html<p>
+<p>¿Es peligroso el 5G para la salud?<p>
+<p>Por Javier Flores<p>
+<p>Gracias al 5G viviremos en un mundo hiperconectado, sin embargo mucha gente está en
+contra de esta nueva tecnología alegando que es peligrosa para la salud. Analizamos los
+múltiples estudios científicos que existen al respecto.<p>
+<p>Para entender cómo puede afectar al ser humano el 5G lo primero que hay que saber es qué
+es esta nueva tecnología que promete cambiar nuestras vidas. Tras el 2G, 3G y el 4G ya se está
+implantando la denominada 5G, es decir, la quinta generación de redes móviles que
+conocemos. Por ejemplo, gracias a la tecnología 2G llegaron los revolucionarios SMS, que
+posteriormente dieron paso al 3G y a la conexión continua a Internet. Años más tarde aterrizó
+en nuestras vidas la famosa banda ancha gracias al 4G, y con ella una rapidez de datos nunca
+vista, gracias a la cual podemos ver vídeos en streaming, bajar fotos a gran resolución de
+manera muy rápida, reproducir canciones sin esperar a que se descarguen... Actualmente
+estamos acostumbrados a todo ello, pero hace unos años era impensable..<p>
+<br>
+<p>Prueba la revista National Geographic gratis y forma parte del movimiento por un mundo más
+sostenible.<p>
+<br>
+<p>Los estudios científicos sobre el peligro del 5G<p>
+<br>
+<p>"Tras muchas investigaciones, no se ha detectado ningún efecto adverso para la salud
+relacionado causalmente con la exposición a tecnologías inalámbricas" explica la OMS en un
+estudio de febrero de 2020.<p>
+</body>
+</html>
+
+
+
+
+
+
+<html>
+<head>
+      <title>ejemplos</title>
+</head>
+<body>
+<p>matriculacion.html<p>
+<p>CRONOGRAMA DE INSCRIPCIONES<p>
+<p>INICIO DE CLASES: 3 DE FEBRERO, 2020<p>
+<p>Requisitos<p>
+<p>Certificado de nacimiento Original<p>
+<p>Fotocopia de Cédula de Identidad.<p>
+<p>Fotocopia LEGALIZADA de Título de Bachiller<p>
+<p>Certificado de nacimiento Original<p>
+<p>Procedimiento<p>
+<p>Una vez realizado el Depósito del valor de la matrícula, el estudiante deberá ingresar a la
+página Web: <a href="google.html">http://sia.umsa.bo/registro</a> SIA, donde debe registrar sus datos personales.<p>
+<p>El estudiante debe escanear su fotografía y los documentos solicitados en el inciso b) del punto
+de Requisitos, mediante un scanner y un computador que tenga internet y almacenar los
+archivos escaneados en formato imagen <a href="google">(.jpg)</a>, los documentos escaneados deben tener buena
+calidad de imagen. El Título de Bachiller debe ser escaneado anverso y reverso.<p>
+<p>Una vez realizado el registro y escaneado de los documentos, el estudiante debe imprimir a
+colores su ficha personal del Sistema de Registro Universitario, que es un requisito para la
+presentación de documentos.<p>
+<br>
+<p>La documentación exigida debe ser presentada completa, según requisitos exigidos.<p>
+<p>Los estudiantes que no presenten la documentación en la fecha determinada, serán sujetos a
+suspensión en su inscripción.<p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+      <title>ejemplos</title>
+<style>
+     table,th,td(border: 1px solid black;)
+</style>
+</head>
+<body>
+<p>estadística.html<p>
+<p>DIVISION DE SISTEMAS DE INFORMACION Y ESTADISTICA<p>
+<img src="C:\Users\USUARIO\Pictures\Camera Roll\"umsa".jpg">
+<p>TOTAL MATRICULADOS NUEVOS<p>
+<table border>
+<tr>
+     <td>Gestion</th>
+     <td>2019</th>
+     <td>2020</th>
+     <td>2021</th>
+     <td>2022</th>
+</tr>
+<tr>
+      <td>Total</td>
+      <td>321</td>
+      <td>352</td>
+      <td>502</td>
+      <td>589</td>
+</tr>
+</table>
+<br>
+<p>Ingreso por Género<p>
+
+<table border>
+<tr>
+     <td>Genero</th>
+     <td>2019</th>
+     <td>2020</th>
+     <td>2021</th>
+     <td>2022</th>
+     <td>Totales</th>
+</tr>
+<tr>
+      <td>No responde</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+</tr>
+<tr>
+<td>Masculino</td>
+      <td>2432</td>
+      <td>2431</td>
+      <td>2618</td>
+      <td>2581</td>
+      <td>10062</td>
+</tr>
+<tr>
+<td>Femenino</td>
+      <td>908</td>
+      <td>871</td>
+      <td>903</td>
+      <td>940</td>
+      <td>3622</td>
+</tr>
+<tr>
+<td colspan="5">TOTAL</td>
+<td>13684</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+      <title>ejemplos</title>
+<style>
+     table,th,td(border: 1px solid black;)
+</style>
+</head>
+<body>
+  <br>
+  <br>
+  <br>
+<center><b><big>DIVISION DE SISTEMAS DE INFORMACION Y ESTADISTICA<big></b>
+<align="right"><img src="C:\Users\USUARIO\Pictures\Camera Roll\"umsa".jpg"></center>
+  <HR width="100%" align="center">
+  <center><font color="red"size="3">TOTAL MATRICULADOS NUEVOS </font></center>
+  <br>
+  <center>
+    <table border="5px">
+     <tr>
+     <td bgcolor="green"><b>&nbsp &nbsp &nbsp Gestion &nbsp &nbsp &nbsp</b></th>
+     <td bgcolor="green"><b> &nbsp &nbsp &nbsp 2019 &nbsp &nbsp &nbsp</b></th>
+     <td bgcolor="green"><b>&nbsp &nbsp &nbsp 2020 &nbsp &nbsp &nbsp</b></th>
+     <td bgcolor="green"><b>&nbsp &nbsp &nbsp 2021 &nbsp &nbsp &nbsp</b></th>
+     <td bgcolor="green"><b>&nbsp &nbsp &nbsp &nbsp 2022 &nbsp &nbsp &nbsp &nbsp</b></th>
+</tr>
+<tr>
+      <td> <b>&nbsp &nbsp &nbsp &nbsp &nbsp Total &nbsp &nbsp &nbsp &nbsp </b></t>
+      <td>321</td>
+      <td>352</td>
+      <td>502</td>
+      <td>589</td>
+</tr>
+</table>
+<br>
+  <center><font color="red"size="4">Ingreso por Género</font></center>
+<table border="5px" cellspacing="5">
+<br>
+<tr>
+     <td bgcolor="yellow">&nbsp &nbsp <b>Genero</b></th>
+     <td bgcolor="yellow">&nbsp &nbsp &nbsp <b>2019</b> &nbsp &nbsp &nbsp</th>
+     <td bgcolor="yellow">&nbsp &nbsp &nbsp <b>2020</b> &nbsp &nbsp &nbsp</th>
+     <td bgcolor="yellow">&nbsp &nbsp &nbsp <b>2021</b> &nbsp &nbsp &nbsp</th>
+     <td bgcolor="yellow">&nbsp &nbsp &nbsp <b>2022</b> &nbsp &nbsp &nbsp</th>
+     <td bgcolor="yellow">&nbsp &nbsp &nbsp <b>Totales</b> &nbsp &nbsp &nbsp</th>
+</tr>
+<tr>
+      <td><b>No responde</b></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td bgcolor="#b5b5b5">0</td>
+</tr>
+<tr>
+<td>&nbsp <b>Masculino</b></td>
+      <td>2432</td>
+      <td>2431</td>
+      <td>2618</td>
+      <td>2581</td>
+      <td bgcolor="#b5b5b5">10062</td>
+</tr>
+<tr>
+<td>&nbsp <b>Femenino</b></td>
+      <td>908</td>
+      <td>871</td>
+      <td>903</td>
+      <td>940</td>
+      <td bgcolor="#b5b5b5">3622</td>
+</tr>
+<tr>
+<td colspan="5">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <b>TOTAL</b></td>
+  <td>13684</td>
+</tr>
+</table>
+<br>
+<br>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+      <title>ejemplos</title>
+</head>
+<body>
+<p>
+<center>
+      <font size="6">CRONOGRAMA DE INSCRIPCIONES</font>
+</center>
+<p>
+    <HR width="100%" align="center">
+  <br>
+    <center>
+          <font color="red">INICIO DE CLASES: 3 DE FEBRERO, 2020</font>
+    </center>
+  <br>
+    <HR width="100%" align="center">
+  <br>
+<b><u>Requisitos</u></b>
+  <br>
+<ol type="a">
+<li>Certificado de nacimiento Original</li>
+<li>Fotocopia <b>LEGALIZADA</b> de Título de Bachiller</l>
+<li>Fotocopia de Cédula de Identidad.</li>
+<li>Certificado de nacimiento Original</li></ol>
+<u><b>Procedimiento</b></u>
+<font size="3">
+<i><ol>
+<li>Una vez realizado el Depósito del valor de la matrícula, el estudiante deberá ingresar a la
+página Web: <a href="google.html">http://sia.umsa.bo/registro</a> SIA, donde debe registrar sus datos personales.</li>
+<li>El estudiante debe escanear su fotografía y los documentos solicitados en el inciso b) del punto
+de Requisitos, mediante un scanner y un computador que tenga internet y almacenar los
+archivos escaneados en formato imagen <a href="google">(.jpg)</a>, los documentos escaneados deben tener buena
+calidad de imagen. El Título de Bachiller debe ser escaneado anverso y reverso.</li>
+<li>Una vez realizado el registro y escaneado de los documentos, el estudiante debe imprimir a
+colores su ficha personal del Sistema de Registro Universitario, que es un requisito para la
+presentación de documentos.</li>
+</ol>
+</i>
+</font>
+<HR width="100%" align="center">
+<font color="green">
+  <ul style="list-style-tyle:square;">
+<dd><li>La documentación exigida debe ser presentada completa, según requisitos exigidos.</li></dd>
+<dd><li>Los estudiantes que no presenten la documentación en la fecha determinada, serán sujetos a
+suspensión en su inscripción.</li></dd>
+</ul>
+</font>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+     <title>noticias.html</title>
+</head>
+<body>
+<center>
+<b>
+<font size="6">¿Es peligroso el 5G para la salud?</font>
+</b>
+</center>
+<br>
+<font size="-1">
+<b>
+<u><p align="right">Por Javier Flores</p></u>
+</b>
+</font>
+<br>
+<i>Gracias al 5G viviremos en un mundo hiperconectado, sin embargo mucha gente está en
+contra de esta nueva tecnología alegando que es peligrosa para la salud. Analizamos los
+múltiples estudios científicos que existen al respecto.</i>
+<br>
+<br>
+<br>
+<p>Para entender cómo puede afectar al ser humano el 5G lo primero que hay que saber es qué
+es esta <b>nueva tecnología que promete cambiar nuestras vidas</b>. Tras el 2G, 3G y el 4G ya se está
+implantando la denominada 5G, es decir, la quinta generación de redes móviles que
+conocemos. Por ejemplo, gracias a la <b>tecnología 2G llegaron los revolucionarios SMS, que
+posteriormente dieron paso al 3G y a la conexión continua a Internet</b>. Años más tarde aterrizó
+en nuestras vidas la famosa banda ancha gracias al 4G, y con ella una rapidez de datos nunca
+vista, gracias a la cual podemos ver vídeos en streaming, bajar fotos a gran resolución de
+manera muy rápida, reproducir canciones sin esperar a que se descarguen... Actualmente
+estamos acostumbrados a todo ello, pero hace unos años era impensable..<p>
+<HR width="100%" align="center">
+<tt><p>Prueba la revista National Geographic gratis y forma parte del<p></tt> 
+<tt><p>movimiento por un mundo más sostenible.<p></tt>
+<HR width="100%" align="center">
+<center><b><font size="5">Los estudios científicos sobre el peligro del 5G</font></b></center>
+<br>
+<HR width="10%" align="left">
+<font color="red"size="-1">"Tras muchas investigaciones, no se ha detectado ningún efecto adverso para la salud
+relacionado causalmente con la exposición a tecnologías inalámbricas" explica la OMS en un
+estudio de febrero de 2020.</font>
+<HR width="10%" align="left">
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
